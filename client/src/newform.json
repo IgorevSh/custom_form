@@ -1,0 +1,16 @@
+{
+"newForm":{
+  "title": "Новая Форма",
+  "description": "Описание для формы",
+  "content": [
+    {
+      "type": "text",
+      "value": "simple text",
+      "label": "test",
+      "required": false,
+      "name": "group",
+      "list": ["option"]
+    }
+  ]
+}
+}
